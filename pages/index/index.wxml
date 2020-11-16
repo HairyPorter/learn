@@ -1,0 +1,10 @@
+<view class="box"
+hover-class="boxHover"
+>
+  <view class="item" hover-class="itemHover" hover-stop-propagation></view>
+
+</view>
+<text selectable>tttttttttttttttttttttttttttttttttttttt</text>
+<view class="out">
+ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+</view>
